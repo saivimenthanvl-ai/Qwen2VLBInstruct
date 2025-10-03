@@ -16,17 +16,18 @@ Fine-tuned to follow diverse natural language instructions, enabling flexible ad
 
 Effective for multimodal tasks such as
 
-(i)**Visual Question Answering (VQA)**
+(i) **Visual Question Answering (VQA)**
 
-(ii)**Image captioning and scene interpretation**
+(ii) **Image captioning and scene interpretation**
 
-(iii)**Instruction-guided reasoning and analysis**
+(iii) **Instruction-guided reasoning and analysis**
 
 🧪 **Research-Ready Foundation**
 
 Provides a robust baseline for academic benchmarking, dataset evaluation, and exploration of unified multimodal intelligence systems.
 
 🎯 Model Use Cases
+
 
 📖 **Academic Research**
 
