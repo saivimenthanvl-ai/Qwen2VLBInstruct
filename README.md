@@ -1,22 +1,22 @@
 # Qwen2VLBInstruct
 
-🧠 Unified Multimodal Reasoning
+🧠**Unified Multimodal Reasoning**
 Combines powerful language modeling with visual understanding, allowing the model to interpret both images and textual instructions simultaneously.
 
-🖼 Advanced Visual Encoding
+🖼 **Advanced Visual Encoding**
 Incorporates strong visual encoders and cross-modal alignment layers to extract and integrate meaningful features from complex visual scenes.
 
-📝 Instruction-Tuned for Versatility
+📝 **Instruction-Tuned for Versatility**
 Fine-tuned to follow diverse natural language instructions, enabling flexible adaptation to multiple downstream tasks without task-specific training.
 
-🌐 Broad Application Scope
+🌐 **Broad Application Scope**
 Effective for multimodal tasks such as
 
-Visual Question Answering (VQA)
+**Visual Question Answering (VQA)**
 
-Image captioning and scene interpretation
+**Image captioning and scene interpretation**
 
-Instruction-guided reasoning and analysis
+**Instruction-guided reasoning and analysis**
 
 🧪 Research-Ready Foundation
 Provides a robust baseline for academic benchmarking, dataset evaluation, and exploration of unified multimodal intelligence systems.
